@@ -59,6 +59,13 @@ The project focuses on **minimal aesthetics, structured layouts, and smooth user
 
 ---
 
+## Run locally
+
+npm install  
+npm run dev
+
+---
+
 ## 👩‍💻 Author
 
 **Bhavya Paliwal**
