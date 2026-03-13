@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏡 ISHAN KON – Interior Design Web Platform
 
-## Getting Started
+**Ishan Kon** is a modern full-stack interior design showcase platform created to present elegant home concepts, premium room layouts, and personalized living spaces.
 
-First, run the development server:
+The project focuses on **minimal aesthetics, structured layouts, and smooth user interaction** that reflects a high-end interior design brand experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+* Clean and modern UI/UX
+* Responsive and mobile-friendly design
+* Image-based portfolio showcase
+* Smooth transitions and hover animations
+* Dynamic project pages
+* Contact form with MongoDB database integration
+* Password-protected admin panel
+* Delete functionality for managing contact messages
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Project Objectives
 
-To learn more about Next.js, take a look at the following resources:
+* Present interior design concepts in a visually appealing format
+* Provide a premium browsing experience for users
+* Demonstrate modern **UI/UX design and full-stack development skills**
+* Build a portfolio-style interior design platform
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+**Frontend**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Next.js
+* Tailwind CSS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Backend**
+
+* Next.js API Routes
+* Node.js
+
+**Database**
+
+* MongoDB Atlas
+
+---
+
+## ⚙️ Key Functionalities
+
+* Dynamic routing for project pages
+* Contact form that stores messages in MongoDB
+* Secure admin panel to view user messages
+* Option to delete messages directly from the admin dashboard
+
+---
+
+## 👩‍💻 Author
+
+**Bhavya Paliwal**
+B.Tech Artificial Intelligence & Data Science
+Aspiring Software Engineer
+
+GitHub:
+https://github.com/Bhavya-Paliwal22
+
+LinkedIn:
+https://www.linkedin.com/in/bhavya-paliwal-13a897354/
+
+---
+
+## 🚀 Future Scope
+
+* Advanced admin dashboard with analytics
+* Interior design project management module
+* 3D room visualization integration
+* User account system
+* Wishlist & room preview functionality
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates a **modern full-stack web application built using Next.js and MongoDB**, combining clean UI design with practical backend functionality.
